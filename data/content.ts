@@ -111,7 +111,7 @@ export const content = {
         "Delivered safe, person-centred support and maintained accurate documentation in a high-trust healthcare environment while collaborating with staff during busy shifts.",
     },
     {
-      company: "Organisation Name",
+      company: "Regis Aged Care, Caboolture, QLD",
       role: "Food Services Assistant (FSA)",
       period: "Sep 2024 – May 2025",
       description:
