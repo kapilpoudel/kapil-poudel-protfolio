@@ -7,7 +7,7 @@ export const content = {
     location: "Morayfield, QLD, Australia",
     linkedin: "http://www.linkedin.com/in/kapil-poudel-481908190",
     github: "https://github.com/kapilpoudel",
-    resume: "/resume.pdf",
+    resume: "/cv/Kapil_Poudel_Resume.pdf",
   },
 
   hero: {

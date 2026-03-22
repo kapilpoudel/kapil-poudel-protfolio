@@ -138,6 +138,15 @@ export default function Home() {
                   {hero.secondaryButton}
                 </a>
               </Button>
+              <Button
+                asChild
+                variant="outline"
+                className="rounded-full border-slate-500 bg-transparent px-6 text-white hover:bg-white/10"
+              >
+                <a href={person.resume} download="Kapil_Poudel_Resume.pdf">
+                  Download Resume
+                </a>
+              </Button>
             </div>
 
             <div className="mt-8 flex flex-wrap gap-5 text-sm text-slate-300">
