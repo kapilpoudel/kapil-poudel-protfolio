@@ -5,8 +5,8 @@ export const content = {
     email: "poudelkapil077@gmail.com",
     phone: "0423343983",
     location: "Morayfield, QLD, Australia",
-    linkedin: "https://linkedin.com/in/your-linkedin",
-    github: "https://github.com/your-github",
+    linkedin: "http://www.linkedin.com/in/kapil-poudel-481908190",
+    github: "https://github.com/kapilpoudel",
     resume: "/resume.pdf",
   },
 
@@ -127,13 +127,7 @@ export const content = {
       tech: ["Power BI", "Excel", "Documentation", "Testing"],
       link: "#",
     },
-    {
-      title: "Portfolio Website",
-      description:
-        "Built a modern personal portfolio using Next.js, TypeScript, and Tailwind CSS to showcase projects, certifications, education, and career goals.",
-      tech: ["Next.js", "TypeScript", "Tailwind CSS"],
-      link: "#",
-    },
+    
   ],
 
   certifications: [
